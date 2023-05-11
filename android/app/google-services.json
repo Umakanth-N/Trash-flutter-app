@@ -1,0 +1,41 @@
+// your id  will be getting from firebase when u add android project then replace whole file
+
+{
+  "project_info": {
+    "project_number": "your id",
+    "project_id": "your id",
+    "storage_bucket": "your id"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "your id",
+        "android_client_info": {
+          "package_name": "your id"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "your id",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "your id"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "your id",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
