@@ -1,8 +1,13 @@
-# trash_it
-
-A new Flutter project.
+# Trash_It 
+it is a flutter based android app which is done for myu final year project
+ 
 
 ## Getting Started With Trash App
+# Logo
+
+![logo](https://github.com/Umakanth-N/Trash-flutter-app/assets/90272725/cb74c274-bbf4-417b-aaa2-899b6b64af92)
+
+# screenshots 
 
 This project is a starting point for a Flutter application.
 
