@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+## Getting Started With Trash App
 
 This project is a starting point for a Flutter application.
 
